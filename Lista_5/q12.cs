@@ -1,0 +1,4 @@
+palmeiras
+tem
+terra
+Minha
