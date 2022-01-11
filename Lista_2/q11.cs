@@ -7,6 +7,6 @@ class MainClass {
     int dia = int.Parse(data[0]);
     int mes = int.Parse(data[1]);
     int ano = int.Parse(data[2]);
-    Console.WriteLine($"A data é {dia} de {mes:00} de 2013{ano}");
+    Console.WriteLine($"A data é {dia} de {mes:00} de {ano}");
   }
 }
